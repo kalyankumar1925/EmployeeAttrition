@@ -84,7 +84,7 @@ After preprocessing:
 ## 3. GitHub Repository
 
 **GitHub Repository:**
-`<TO-DO>`
+`https://github.com/kalyankumar1925/EmployeeAttrition`
 
 The repository contains the complete source code, dataset used for testing, trained model files, preprocessing objects, evaluation results, README documentation, and Streamlit application.
 
@@ -239,7 +239,7 @@ The application provides:
 
 ### Live Streamlit Application
 
-`<TO-DO>`
+`https://2025ac05203-employeeattrition-ml-model.streamlit.app/`
 
 ---
 
